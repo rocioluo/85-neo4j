@@ -1,0 +1,315 @@
+artist_name,artist_id,group,exhibition_id
+Liu Xun,1,Star,1
+Wang Keping,2,Star,1
+Liuxun,3,Star,1
+Ma DeSheng,4,Star,1
+Qu Leile,5,Star,1
+Li Shuang,6,Star,1
+Zhang Wei,7,Star,1
+ Zhang Wenxin,8,Star,1
+Zhang Guangfu,9,Star,1
+Zhang Hongnian,10,Star,1
+Zhang Jiaxi,11,Star,1
+Zhong Ming,12,Star,1
+"Zhao Yixiong,",13,Star,1
+Qin Yuanyue,14,Star,1
+Chang Youming,15,Star,1
+Yuan Yunsheng,16,Star,1
+Yuan Yunfu,17,Star,1
+Cao Dali,18,Star,1
+Huang Li,19,Star,1
+ Yan Zhenduo,20,Star,1
+Fu Yuan,21,Star,1
+Zhan Jianjun,22,Star,1
+Ma Yunhong,23,Star,1
+Wang Lu,24,Star,1
+Wang Leifu,25,Star,1
+Ye Wulin,26,Star,1
+Qu Leilei,27,Star,1
+Yan Li,28,Star,1
+Bo Yun,29,Star,1
+Fen Guodong,30,Star,1
+Si Shangyi,31,Star,1
+Liu Bingjiang,32,Star,1
+Zhuang Yan,33,Star,1
+Zhu Naizheng,34,Star,1
+Quan Zhenghuan,35,Star,1
+Xing Guozhen,36,Star,1
+Pang Tao,37,Star,1
+ Ji Cheng,38,Star,1
+Li Huaji,39,Star,1
+Li Yuchang,40,Star,1
+Li Xiushi,41,Art Conference,
+Chen Wei,42,Art Conference,
+Wu Guanzhong,43,Art Conference,
+Lin Gang,44,Art Conference,
+Yang Yanping,45,Art Conference,
+Li Shan,46,Art Conference,
+Dai Hengyang,47,Art Conference,
+Gao Minglu,48,Art Conference,
+ Li Xiushi,49,Art Conference,
+Zhang Zuying,50,Art Conference,
+ Li Di,51,Art Conference,
+Zhang Peili,52,Art Conference,
+Shu Qun,53,Art Conference,
+Shu Qun,53,North,
+Shi Guo,54,Zhu Hai Conference ,2
+Shi Panshi,55,Zhu Hai Conference ,2
+Li Ziren,56,Zhu Hai Conference ,Zhu Hai Exhibition
+Wu Liming,57,Zhu Hai Conference ,2
+Tang Li,58,Zhu Hai Conference ,2
+Ren Jian,59,North,3
+Wang Guangyi,60,North,4
+Lin Wei,61,North,5
+Wang Yalin,62,North,6
+Wang Haiyan,63,North,7
+Wu Xiaoyun,64,North,8
+Ren Rong,65,North,9
+Xu Weide,66,Jiangsu,10
+Zhou Guangfu ,67,Jiangsu,11
+Xu Yihui,68,Jiangsu,12
+Jiang Zhusong,69,Jiangsu,2
+Shen Qin,70,Jiangsu,3
+Guan Ce,71,Jiangsu,4
+Ding Fang,72,Jiangsu,5
+Chai Xiaogang,73,Jiangsu,6
+Cao Xiaodong,74,Jiangsu,7
+Yang Zhiling,75,Jiangsu,8
+Xu Lei,76,Jiangsu,9
+Chen Dali,77,Red,10
+Shen Xingong,78,Red,11
+Ding Fang,79,Red,12
+ Guan Ce,80,Red,2
+Liu Ming,81,Red,3
+Cao Xiaodong,82,Red,4
+Yu Qiping,83,Red,5
+Chai Xiaogang,84,Red,6
+Su Xianting,85,Red,7
+Fang Jun,86,Red,8
+Liu Wei,87,Red,9
+Yang Zhilin,88,Red,10
+Li Xiaobai,89,Red,11
+Wu Guangrong,90,Red,12
+Hong Lei,91,Red,2
+Wu Weishan,92,Red,3
+Wu Xiaojun,93,Red,4
+Song Ansu,94,Red,5
+Xin Shenhua,95,Red,6
+Yu Shaoping,96,Red,7
+Yu Bang,97,Red,8
+Liu Guofu,98,Red,9
+Lv Tao,99,Red,10
+Geng Jianli,100,Red,11
+Zhang Peili,,Pond,12
+Song Lin,101,Pond,2
+Bao Jianfei,102,Pond,3
+Wang Qiang,103,Pond,4
+Cha Li,104,Pond,5
+Xu Jin,105,Pond,6
+Cao Xuelei,106,Pond,7
+Wang Guojun,107,Pond,8
+Yu Youhan,108,Six People,9
+Feng Lianghong ,109,Six People,10
+Xiao Gu,110,Six People,11
+Gong Jianqing,111,Six People,12
+Wang Xiaojun,112,Six People,2
+Yang Hui,113,Six People,3
+Zhou Shilong,114,Six People,4
+Yu Sen,115,AoTu,5
+Zhang Jieming,116,AoTu,6
+Wang Lianling,117,AoTu,7
+Li Shan,,AoTu,8
+Zhao Yifu,118,ab,9
+Hong Jijie,119,ab,10
+Chen Zhen,120,ab,11
+Fang Zhuang,121,ab,12
+Ye Mu,122,ab,2
+Shen Fan,123,ab,3
+Zhou Changjiang,124,ab,4
+Mo Tuo,125,ab,5
+Wang Hui,126,ab,6
+Zhou Peide,127,ab,7
+Song Haidong,128,ab,8
+Xiao Xiaolan,129,ab,9
+Lei Min,130,ab,10
+Xu Hong,131,ab,11
+Sun Liang,132,ab,12
+Yu Jiangang,133,ab,2
+Wu ShanZhuan,134,ab,3
+Wu ShanZhuan etc.,135,ab,4
+"Wu ShanZhuan,Ni Haifeng etc.",136,ab,5
+Gu Wenda,137,ab,6
+Wu Shaoxiang,138,ab,7
+Xu Bing,139,ab,8
+Wang Baichang,140,ab,9
+Liu Xiangdong,141,ab,10
+Cai Guoqiang,142,ab,11
+Huang Yongping,143,ab,12
+Mao Xuhui,144,ab,2
+Zhang Xiaogang,145,ab,3
+Ye Yongqing,146,ab,4
+Pan Dehai,147,ab,5
+Pu Liya,148,ab,6
+Ding Defu,149,ab,7
+Sun Guojuan,150,ab,8
+Hou Wenyi,151,ab,9
+Zhai Wei,152,ab,10
+Yang Huangli,153,ab,11
+Zhang Long,154,ab,12
+Zhang Xiaping,155,ab,2
+Sun Shifan,156,ab,3
+Liu Quan,157,ab,4
+Cao li,158,ab,5
+Xia Xiaowan,159,ab,6
+Liang Yuan,160,ab,7
+Chen Qiang,161,ab,8
+Li Baoying,162,ab,9
+Liu Changshun,163,ab,10
+Zhang Song,164,ab,11
+Zhu Haikun,165,ab,12
+Lin Chunyan,166,ab,2
+Zhang Yibo,167,ab,3
+Meng Luding,168,ab,4
+Chen Dan,169,ab,5
+Guan Wei,170,ab,6
+Zhao Hui,171,ab,7
+Chen Wenqi,172,ab,8
+Zhang Qun,173,ab,9
+Wang Youshen,174,ab,10
+Jia Bo,175,ab,11
+Sun Jianping,176,ab,12
+Li Jin,177,ab,2
+Yan Binghui,178,ab,3
+Lv Peihuan,179,ab,4
+Fan Bo,180,ab,5
+Fu Zenan,181,ab,6
+Fu Zewu,182,ab,7
+Le Xiaoshi,183,ab,8
+Ma Baokang,184,ab,9
+Ma Xiaoxing,185,ab,10
+Pi Zhiwei,186,ab,11
+Shao Pusheng,187,ab,12
+Shao Xianlan,188,ab,2
+Shi Xiaojun,189,ab,3
+Tang Tao,190,ab,4
+Wang Aiqin,191,ab,5
+Wang Dun,192,ab,6
+Xia Funing,193,ab,7
+Yang Wenqun,194,ab,8
+Zhu Shaoqiang,195,ab,9
+Wu Pingren,196,ab,10
+Qu Yan,197,ab,11
+Li Yafei,198,ab,12
+Weng Jianqing,199,ab,2
+Yuan Xianming,200,ab,3
+Shi Dihua,201,ab,4
+Gao Tianming,202,ab,5
+Wang Chuan,203,ab,6
+Wu Shixiong,204,ab,7
+Ying Weiping,205,ab,8
+Li Jian,206,ab,9
+Wei Xilin,207,ab,10
+Xie Yuxi,208,ab,11
+Xu Jing,209,ab,12
+Ye Ling,210,ab,2
+Li Yunying,211,ab,3
+Cao Yong,212,ab,4
+Yang Shufeng,213,ab,5
+Liu Zheng,214,ab,6
+Huang Yulan,215,ab,7
+Fu Qiang,216,ab,8
+Shi Dan,217,ab,9
+Hu Shaquan,218,ab,10
+Wen Dusu,219,ab,11
+Zhou Yu,220,ab,12
+Chen Yuzhu,221,ab,2
+Li Yanping,222,ab,3
+Li Zhibao,223,ab,4
+Qi Yong,224,ab,5
+Yu Xiaodong,225,ab,6
+Zhai Yaofei,226,ab,7
+Wang Linfa,227,ab,8
+Dai Guangyu,228,ab,9
+Huangpu Qiren,229,ab,10
+Jian Chongmin,230,ab,11
+Li Jixiang,231,ab,12
+Luo Lunjian,232,ab,2
+Xu Dachen,233,ab,3
+Duan Xiu Cang,234,ab,4
+Wang Huanqing,235,ab,5
+Qiao Xiaoguang,236,ab,6
+Zhu Yanguang,237,ab,7
+Ren Xiaoyin,238,ab,8
+Chen Yufei,239,ab,9
+Huang Weidong,240,ab,10
+Liu Yifu,241,ab,11
+Lu Jinbo,242,ab,12
+Shi Xiangqiang,243,ab,2
+Wang Jianhua,244,ab,3
+Wang Jin,245,ab,4
+Wang Shouming,246,ab,5
+Xie Haitao,247,ab,6
+Yang Guoxin,248,ab,7
+Zhang Quan,249,ab,8
+Zhu Mo,250,ab,9
+Zhuang Wei,251,ab,10
+He Yonghong,252,ab,11
+Li Ling,253,ab,12
+Li Xiangqun,254,ab,2
+Liu Qingmin,255,ab,3
+Shi Xiao,256,ab,4
+Song Xiaomin,257,cd,5
+Wan Guohua,258,cd,6
+Tong Jianyin,259,cd,7
+Zhao Shuli,260,cd,8
+Luo Mingjun,261,cd,9
+Jiang Shangwen,262,cd,10
+Huang Bing,263,cd,11
+Liu Yun,264,cd,12
+Yuan Xiaoyan,265,cd,2
+Ma Jianxin,266,cd,3
+Shu Lei,267,cd,4
+Yuan Qingyi,268,cd,5
+Li Luming,269,cd,6
+Tan Liqin,270,cd,7
+Huang Yali,271,cd,8
+Fu Zhongwang,272,cd,9
+Liu Zijian,273,cd,10
+Wu Guoquan,274,cd,11
+Wei Guangqing,275,cd,12
+Cao Dan,276,cd,2
+Mao Chunyi,277,cd,3
+Tian Hui,278,cd,4
+Li Yaobang,279,cd,5
+Fang Shaohua,280,cd,6
+Guo Zhengshan,281,cd,7
+Xie Yao,282,cd,8
+Fan Hancheng,283,cd,9
+Dong Jining,284,cd,10
+Sun Shaoqun,285,cd,11
+Gao Minfeng,286,cd,12
+Xiao Feng,287,cd,2
+Wang Xianglin,288,cd,3
+Hu Chaoyang ,289,cd,4
+Qiu Xiu,290,cd,5
+Ye Jun,291,cd,6
+Huang Bangxiong,292,cd,7
+Ji Houming,293,cd,8
+Chen Lvshou,294,cd,9
+Luo Yin,295,cd,10
+Lin Chun,296,cd,11
+Jiao Yaoming,297,cd,12
+Sun Baoguo,298,cd,2
+Wang Yibo,299,cd,3
+Zhang Suojia,300,cd,4
+Zhao Haibo,301,cd,5
+Zhu Wei,302,cd,6
+Song Yongping,303,cd,7
+Wang Yazhong,304,cd,8
+Zhang Jianzhong,305,cd,9
+Wang Jiping,306,cd,10
+"Song Yongping,Song Yonghong",307,cd,11
+Xiao Lu,308,cd,12
+Zhang Jianjun ,309,cd,2
+the Pool,310,cd,3
+Lv Shengzhong,311,cd,4
