@@ -1,0 +1,30 @@
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/rocioluo/85-neo4j/master/data/picture.csv' AS line
+CREATE (:Picture {picture_id: line.picture_id, picture_name: line.picture_name, type:line.Picture_Type, exhibition_name:line.Exhibition_Name,work_name:line.Work_Name,work_material:line.Work_Mateiral,artist_name:line.Artist_Name,place:line.Place,year:line.Year,page:line.Page})
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/rocioluo/85-neo4j/master/data/artist.csv' AS line
+CREATE (:Artist {artist_name: line.artist_name, artist_id: line.artist_id,group: line.group, exhibition_id:line.exhibition_id})
+LOAD CSV WITH HEADERS FROM 'https://github.com/rocioluo/85-neo4j/blob/master/data/exhibition.csv' AS line
+CREATE (:Exhibition {exhibition_id: line.exhibition_id, exbition_name: line.exbition_name,exhibition_place: line.exhibition_place, exhibition_time:line.exhibition_time})
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/rocioluo/85-neo4j/master/data/work.csv' AS line
+CREATE (:Work {work_id: line.work_id, work_name: line.work_name,work_material: line.work_material, artist_namee:line.artist_name,year: line.Year})
+
+CREATE INDEX ON :Artist(artist_name);
+CREATE INDEX ON :Exhibition(exhibition_id);
+CREATE INDEX ON :Picture(picture_id);
+CREATE INDEX ON :work(work_id);
+
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/rocioluo/85-neo4j/master/data/artist.csv'  AS row
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/rocioluo/85-neo4j/master/data/work.csv'  AS row
+MATCH (artist:Artist {artist_namee: row.artist_name})
+MATCH (work:Work {work_name: row.work_name
+MERGE (artist)-[:made]->(work)
+
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/rocioluo/85-neo4j/master/data/exhibition.csv'  AS row
+MATCH (artist:Picture {artist_namee: row.Artist_Name})
+MATCH (exhibition:Picture {exhibition_name: row.Exhibition_Name})
+MERGE (artist)-[:participate]->(exhibition)
+
+
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/rocioluo/85-neo4j/master/data/picture.csv'  AS row
+MATCH (work:Picture {work_name: row.Work_Name})
+MATCH (exhibition:Picture {exhibition_name: row.Exhibition_Name})
+MERGE (work)-[:exhibit]->(exhibition)
